@@ -1,0 +1,52 @@
+/* RESET */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* VARIABILI */
+
+/* UTILITY */
+
+body {
+  /* 10px / 16px = 0.625 = 62.5 % */
+  font-size: 62.5%;
+}
+
+.margin-top-15 {
+  margin-top: 15px;
+}
+
+.margin-top-100 {
+  margin-top: 100px;
+}
+
+.margin-bottom-15 {
+  margin-bottom: 15px;
+}
+
+.box {
+  background-color: #006cfa;
+  padding: 25px;
+}
+
+.brown1 {
+  background-color: #ba732a;
+}
+
+.brown2 {
+  background-color: #744d24;
+}
+
+.brown3 {
+  background-color: #211f20;
+}
+
+.white {
+  background-color: white;
+}
+
+.black {
+  background-color: black;
+}
