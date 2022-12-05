@@ -14,8 +14,16 @@ body {
   font-size: 62.5%;
 }
 
-.margin-top {
+.margin-top-15 {
   margin-top: 15px;
+}
+
+.margin-top-30 {
+  margin-top: 30px;
+}
+
+.margin-bottom-15 {
+  margin-bottom: 15px;
 }
 
 .box {
@@ -23,6 +31,10 @@ body {
   padding: 23px 20px;
   margin: 1px;
   position: relative;
+}
+
+h2 {
+  font-size: 1.3rem;
 }
 
 p {
