@@ -9,15 +9,31 @@
 
 /* UTILITY */
 
+body {
+  /* 10px / 16px = 0.625 = 62.5 % */
+  font-size: 62.5%;
+}
+
 .box {
   background-color: #006cfa;
   padding: 17px 20px;
   margin: 1px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  position: relative;
 }
 
 p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
   color: #fff;
+  margin: 0 auto;
+  font-size: 0.6rem;
+}
+
+.box2 {
+  background-color: #00e165;
+  padding: 17px 20px;
+  margin: 1px;
+  position: relative;
 }
