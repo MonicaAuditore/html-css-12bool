@@ -14,9 +14,13 @@ body {
   font-size: 62.5%;
 }
 
+.margin-top {
+  margin-top: 15px;
+}
+
 .box {
   background-color: #006cfa;
-  padding: 17px 20px;
+  padding: 23px 20px;
   margin: 1px;
   position: relative;
 }
@@ -34,6 +38,13 @@ p {
 .box2 {
   background-color: #00e165;
   padding: 17px 20px;
+  margin: 1px;
+  position: relative;
+}
+
+.box3 {
+  background-color: #006cfa;
+  padding: 27px 20px;
   margin: 1px;
   position: relative;
 }
